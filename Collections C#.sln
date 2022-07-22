@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CList", "Clist\CList.csproj", "{B703479B-54B1-4C54-AD0E-46410AD04A31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CQueue", "CQueue\CQueue.csproj", "{23F54FF7-360A-4BCA-9AFF-20C53F1D82B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CStack", "CStack\CStack.csproj", "{8BBF1E0D-9AA9-4138-8D00-55BB840326ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionary", "Dictionary\Dictionary.csproj", "{ABEB2C94-FF9E-46C4-9B6D-8F95E96EC3B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B703479B-54B1-4C54-AD0E-46410AD04A31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B703479B-54B1-4C54-AD0E-46410AD04A31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B703479B-54B1-4C54-AD0E-46410AD04A31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B703479B-54B1-4C54-AD0E-46410AD04A31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23F54FF7-360A-4BCA-9AFF-20C53F1D82B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23F54FF7-360A-4BCA-9AFF-20C53F1D82B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23F54FF7-360A-4BCA-9AFF-20C53F1D82B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23F54FF7-360A-4BCA-9AFF-20C53F1D82B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BBF1E0D-9AA9-4138-8D00-55BB840326ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BBF1E0D-9AA9-4138-8D00-55BB840326ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BBF1E0D-9AA9-4138-8D00-55BB840326ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BBF1E0D-9AA9-4138-8D00-55BB840326ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABEB2C94-FF9E-46C4-9B6D-8F95E96EC3B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABEB2C94-FF9E-46C4-9B6D-8F95E96EC3B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABEB2C94-FF9E-46C4-9B6D-8F95E96EC3B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABEB2C94-FF9E-46C4-9B6D-8F95E96EC3B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
